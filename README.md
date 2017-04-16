@@ -13,3 +13,8 @@ vol. 2014, Article ID 781670, 11 pages, 2014.
 
 <https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008>
 
+The dataset for the readmission prediction was quite huge (100,000  rows) needing a lot of processing power to churn through the machine learning algorithms on my Mac. I had to let some models run overnight just to get some results! I had to stop here and put this up here given the time. The analysis and prediction models could take days to weeks but I think I got some pretty decent results- 
+
+## Preliminary results
+
+up to 93% prediction accuracy for NO readmission in some models. High specificity for <30-day and >30-day readmissions up to 91% in some models.
